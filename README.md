@@ -1,3 +1,36 @@
+Copyright (c) 2024 Brad Stafford
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Dataset Overview
 
 The dataset from the UCI Machine Learning repository contains 12,684 entries with 26 attributes related to coupon usage. It captures various driving scenarios including details about the destination, companions, weather conditions, time of day, and the type of coupon offered. Additionally, it collects demographic and socio-economic characteristics such as gender, age, marital status, education, occupation, and income. Behavioral patterns like the frequency of visits to bars, coffee houses, and restaurants are also tracked. Important to predictive modeling are binary indicators reflecting the travel direction relative to the recipient’s current trajectory and whether the coupon was redeemed. Notably, some missing values are present, particularly in the 'car' column.
